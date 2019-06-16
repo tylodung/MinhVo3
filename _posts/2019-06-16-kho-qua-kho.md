@@ -1,14 +1,14 @@
 ---
 published: true
 hidden: false
-title:  Khổ qua kho chay
+title: Khổ qua kho chay, không thể cưỡng nổi
 tags: styling react styled-components
 twitter_large: true
 image: kho-qua.jpg
 custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 ---
 
-Nguyên liệu làm món khổ qua kho chay
+**Nguyên liệu làm món khổ qua kho chay**
 
 + Một trái khổ qua lớn hoặc hai quả nhỏ khoảng 300 gram.
 
@@ -30,7 +30,7 @@ Nguyên liệu làm món khổ qua kho chay
 
 + Phần nước sốt: 1 + 1/2 muỗng canh xì dầu, 1 muỗng canh đường, 2 muỗng canh nước dừa và 1 muỗng cà phê ớt bột (nếu muốn ăn cay).
 
-Cách làm món khổ qua kho chay cực ngon
+**Cách làm món khổ qua kho chay cực ngon**
 
 – Cắt khổ qua thành từng miếng dày khoảng 1cm. Bóc bỏ phần ruột khổ qua. Rửa sạch lại khổ qua rồi để ráo.
 

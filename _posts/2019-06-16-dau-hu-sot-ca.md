@@ -1,20 +1,20 @@
 ---
 published: true
 hidden: false
-title: Đậu phụ sốt cà chua
+title: Đậu phụ sốt cà chua, niềm vui chua chua
 tags: styling react styled-components
 twitter_large: true
 image: sot-ca-chua.jpg
 custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 ---
 
-Nguyên liệu:
+**Nguyên liệu:**
 
 – 450g đậu phụ; 5 quả cà chua cỡ trung bình; 15g sốt cà chua (mua ở siêu thị); 8ml nước mắm; 5g muối; 10g đường; 120ml nước
 
 – Dầu để chiên
 
-Cách làm:
+**Cách làm:**
 
 Bước 1: Đậu phụ cắt miếng vừa ăn, dùng giấy thấm khô. Sau đó cho đậu vào chảo dầu nóng chiên cho đến khi đến khi đậu có màu vàng nâu.
 
